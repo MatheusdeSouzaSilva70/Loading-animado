@@ -1,4 +1,5 @@
 # Loading-animado
+
 ## Projeto de Tela de Loading com animação
 
  Tecnologias que foram utilizadas no projeto: HTML, CSS.
